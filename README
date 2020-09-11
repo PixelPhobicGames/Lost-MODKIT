@@ -1,0 +1,11 @@
+Note#1:Before Doing anything compile raylib for your platform then run Make install
+Note#2: for some platforms raylib controller inputs dont work like Raspberry Pi etc 
+Note#3:Sorry for this chicken scratch code and writting I threw this together really fast. This is a cut down version of the acutal code its a little more effiecient than the acutual code.
+
+How to Compile
+	1:Go to the makefiles folder then copy the makefile for you platform in the same directory as this file. This has a Windows makefile by default.
+	2:then run make 
+	3: Copy the Sprites , Maps , shaders , and Music folder from the acutal game into the root of this folder 
+	4:Enjoy 
+
+
