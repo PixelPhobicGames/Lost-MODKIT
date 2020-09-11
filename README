@@ -8,4 +8,8 @@ How to Compile
 	3: Copy the Sprites , Maps , shaders , and Music folder from the acutal game into the root of this folder 
 	4:Enjoy 
 
+Trouble shooting:
+	The makefiles are just modifyed versions of the raylib template makefiles
+	for most platforms other than windows the controller inputs dont work
+	I also had DEVKITPRO and raylib on my computer try installing DEVKITPRO for windows.
 
